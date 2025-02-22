@@ -6,29 +6,6 @@
   I like C and A -RPG's | Survival Games |
   A wise man once said gaming isn’t bound by age
 
-  .........
-       \   /    
-        .-.     
-     ― (   ) ―  
-        `-’     
-       /   \
-      /\         /\   
-     /  \_______/  \
-    /               \
-   /                 \
-  /                   \
- /                     \
-/                       \                        /\     /\
-         ______                                 /  \___/  \
-        /      \                               /           \
-       /        \                             /             \
-      /__________\                           /               \
-     |            |                         /              /\_____/\     
-     |   ____     |                                       /         \
-     |  |    |    |                                      /           \
-     |__|____|____|                                     /             \
-
-  
 
 <!---
 Boolean-Coder-Bro/Boolean-Coder-Bro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
